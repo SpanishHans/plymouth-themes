@@ -59,6 +59,7 @@ sudo plymouth-set-default-theme -R THEME
 <details><summary>Pack 1</summary>
 
 | Name | Preview |
+|-------|---------|
 | rango | ![gif](https://raw.githubusercontent.com/SpanishHans/plymouth-themes/main/previews/rango.gif) |
 
 + [Rango](https://raw.githubusercontent.com/SpanishHans/plymouth-themes/main/previews/rango.gif)
